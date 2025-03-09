@@ -1,5 +1,7 @@
 # Implementing Reinforcement Learning with Human Feedback (RLHF) and Direct Preference Optimization (DPO) to generate non-harmful answers when prompted with harmful and stereotypical questions.
 
+The train and test datasets, the trained models (reward model, rlhf trained and ppo trained models), and the code are available in the kaggle notebook: https://www.kaggle.com/code/yashwantkrishna/genai
+
 # Requirements
 ```
 numpy==2.2.3
